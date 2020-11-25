@@ -11,7 +11,7 @@ const Footer = () => {
         <figure className="image is-3x2">
           <img src="/aws.png" alt="AWS News" style={{ maxWidth: '150px' }} className="has-image-centered" />
         </figure>
-        <p>&copy; 2019-{ `${currentYear()}` } - This site is for demonstration purposes only.</p>
+        <p>&copy; 2019-{ `${currentYear()}` } - info@nubri.co</p>
       </div>
     </footer>
   );
