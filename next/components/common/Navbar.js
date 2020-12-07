@@ -84,7 +84,7 @@ export default function NavBar() {
             {/* Logo */}
             <div className="flex-shrink-0 mt-1">
               <Link href="/">
-                <a><img className="h-8 w-auto" src="https://a0.awsstatic.com/libra-css/images/logos/aws_smile-header-desktop-en-white_59x35@2x.png" alt="AWS News" /></a>
+                <a><img className="h-8 w-auto" src="../../public/logo.png" alt="AWS News" /></a>
               </Link>
             </div>
 
