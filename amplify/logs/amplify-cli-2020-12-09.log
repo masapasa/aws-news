@@ -1,0 +1,11 @@
+2020-12-09T12:31:23.020Z|info : amplify env core list 
+2020-12-09T12:32:44.535Z|info : amplify pull core  {"appId":"[***]gdztsc","envName":"[***]ev","yes":false}
+2020-12-09T12:32:50.254Z|info : amplify-provider-awscloudformation.zip-util.downloadZip.s3.getFile([{"Key":"[***]rent-[***]ud-[***]d.zip"},null])
+2020-12-09T12:32:50.256Z|info : amplify-provider-awscloudformation.aws-s3.s3.getFile([{"Key":"[***]rent-[***]ud-[***]d.zip","Bucket":"[***]ify-[***]ws-[***]ws-[***]ev-[***]640-[***]ment"}])
+2020-12-09T12:32:50.505Z|info : amplify-provider-awscloudformation.initialize-env.run.cfn.updateamplifyMetaFileWithStackOutputs([{"StackName":"[***]ify-[***]ws-[***]ws-[***]ev-[***]640"}])
+2020-12-09T12:32:50.506Z|info : amplify-provider-awscloudformation.aws-cfn.updateamplifyMetaFileWithStackOutputs.cfn.describeStackResources([{"StackName":"[***]ify-[***]ws-[***]ws-[***]ev-[***]640"}])
+2020-12-09T12:32:50.674Z|info : amplify-provider-awscloudformation.aws-cfn.describeStack.cfn.describeStacks([{"StackName":"[***]rmation:eu-[***]ral-[***]29:stack/[***]ify-[***]ws-[***]ws-[***]ev-[***]640-[***]awsnews-[***]IKH75I/[***]a4f0-[***]fa-[***]eb-[***]03-[***]d8a3a"}])
+2020-12-09T12:32:50.678Z|info : amplify-provider-awscloudformation.aws-cfn.describeStack.cfn.describeStacks([{"StackName":"[***]rmation:eu-[***]ral-[***]29:stack/[***]ify-[***]ws-[***]ws-[***]ev-[***]640-[***]news-[***]3CON60/[***]fc80-[***]fb-[***]eb-[***]c6-[***]c5730"}])
+2020-12-09T12:32:50.681Z|info : amplify-provider-awscloudformation.aws-cfn.describeStack.cfn.describeStacks([{"StackName":"[***]rmation:eu-[***]ral-[***]29:stack/[***]ify-[***]ws-[***]ws-[***]ev-[***]640-[***]b9664fc2-[***]IG2O1K/[***]0480-[***]fa-[***]eb-[***]c6-[***]83ac6"}])
+2020-12-09T12:32:50.682Z|info : amplify-provider-awscloudformation.aws-cfn.describeStack.cfn.describeStacks([{"StackName":"[***]rmation:eu-[***]ral-[***]29:stack/[***]ify-[***]ws-[***]ws-[***]ev-[***]640-[***]wcontent-[***]C1W2D/[***]3fe0-[***]fa-[***]eb-[***]76-[***]8b27a"}])
+2020-12-09T12:32:50.816Z|info : amplify-provider-awscloudformation.aws-s3.s3.getFile([{"Key":"[***]ify-[***]json","Bucket":"[***]ify-[***]ws-[***]ws-[***]ev-[***]640-[***]ment"}])
